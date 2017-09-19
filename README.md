@@ -24,4 +24,4 @@ For e.g. if the number of chips in pile is 54 then Zeckendorf form  = 34 + 13 + 
 
 
 ## Running Time of the Algorithm: 
-To Calculate Winning move in each Iteration = O(log n)
+To Calculate Winning move in each Iteration = O(n^2)
